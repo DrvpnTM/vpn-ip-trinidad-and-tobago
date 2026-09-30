@@ -1,18 +1,17 @@
-# VPN IP Trinidad and Tobago — Dr VPN
+# VPN IP Trinidad and Tobago — Fast, Secure VPN for Trinidad and Tobago
 
-**VPN IP Trinidad and Tobago** is a fast, secure and free VPN for Android. Get a **Trinidad and Tobago IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Trinidad and Tobago** is a free, open-source, ad-free VPN app for Android, built for users in Trinidad and Tobago. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Trinidad and Tobago (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_tt_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-trinidad-and-tobago/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Trinidad and Tobago IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Trinidad and Tobago, Trinidad and Tobago VPN, VPN IP Trinidad and Tobago, Trinidad and Tobago IP address, free VPN Trinidad and Tobago, buy VPN Trinidad and Tobago, fast VPN Trinidad and Tobago, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Trinidad and Tobago, free VPN Trinidad and Tobago, fast VPN, VPN IP Trinidad and Tobago, Android VPN, unblock websites Trinidad and Tobago.</sub>
